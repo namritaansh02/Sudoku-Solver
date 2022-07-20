@@ -1,2 +1,2 @@
 # Sudoku-Solver
-Designed Sudoku Solver using depth first search and backtracking algorithm. Working on hosting the solver over internet using Wt Framework
+Designed Sudoku Solver using depth first search and backtracking algorithm. Designed a genetic algorithm implementation also for the same.
